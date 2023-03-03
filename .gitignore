@@ -1,0 +1,12 @@
+.DS_Store
+cover.out
+coverage.out
+.touchfile
+*.tfstate
+.terraform
+*.backup
+*~
+*.bak
+vendor/golang.org/
+vendor/github.com/
+build/
